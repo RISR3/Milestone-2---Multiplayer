@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 038836b4def41d04e9e407eb4cd4a698
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SlateSample: {fileID: 4438575816383469190, guid: aa019fd5326d24e40ae055c24e59b54d,
+      type: 3}
+  - MyPawnSample: {fileID: 3178034830079771384, guid: 984c972352bc4f44d92e690f42210b0b,
+      type: 3}
+  - HisPawnSample: {fileID: 1481724056766082880, guid: 1b10f80cdace99e46bf89d9461e5d167,
+      type: 3}
+  - TurnText: {fileID: 7841213017085894960, guid: 5ced9a0654f8aab43b603573c5122f09,
+      type: 3}
+  - winPanel: {fileID: 1907329703334167074, guid: 9b0d796a7eed92646b66a5cbd8e524ff,
+      type: 3}
+  - winText: {fileID: 1317961784063218916, guid: 87029f47302086847aba213c691ba2af,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

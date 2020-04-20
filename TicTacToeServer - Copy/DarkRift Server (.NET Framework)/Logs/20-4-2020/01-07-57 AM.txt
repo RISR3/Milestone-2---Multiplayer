@@ -1,0 +1,33 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.5.0.0 - Free
+[Trace]   PluginFactory         Created plugin 'TicTacToePlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'TicTacToePlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin TicTacToePlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59652.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63439.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:59652|127.0.0.1:63439].
+[Info]    TicTacToePlugin       Hello Friend,0
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59665.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56830.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:59665|127.0.0.1:56830].
+[Info]    TicTacToePlugin       Hello Friend,1
+[Info]    TicTacToePlugin       Goodbye Friend,1
+[Info]    ClientManager         Client [1] disconnected.
+[Info]    TicTacToePlugin       Goodbye Friend,0
+[Info]    ClientManager         Client [0] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59722.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56782.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:59722|127.0.0.1:56782].
+[Info]    TicTacToePlugin       Hello Friend,2
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59731.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56786.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:59731|127.0.0.1:56786].
+[Info]    TicTacToePlugin       Hello Friend,3
+[Info]    TicTacToePlugin       Goodbye Friend,3
+[Info]    ClientManager         Client [3] disconnected.

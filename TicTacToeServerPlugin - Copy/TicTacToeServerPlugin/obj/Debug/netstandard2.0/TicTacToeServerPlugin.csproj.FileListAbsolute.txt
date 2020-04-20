@@ -1,0 +1,32 @@
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\TicTacToeServerPlugin.deps.json
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\TicTacToeServerPlugin.dll
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\TicTacToeServerPlugin.pdb
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.dll
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.dll
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.pdb
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.xml
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.pdb
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.xml
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.csprojAssemblyReference.cache
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.AssemblyInfoInputs.cache
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.AssemblyInfo.cs
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.csproj.CopyComplete
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.dll
+C:\Users\sierr\Desktop\TicTacToeServerPlugin\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.pdb
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.csprojAssemblyReference.cache
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.AssemblyInfoInputs.cache
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.AssemblyInfo.cs
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.dll
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.pdb
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\TicTacToeServerPlugin.deps.json
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\TicTacToeServerPlugin.dll
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\TicTacToeServerPlugin.pdb
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.dll
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.dll
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.pdb
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.xml
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.pdb
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\bin\Debug\netstandard2.0\DarkRift.Server.xml
+C:\Users\sierr\Desktop\TicTacToeServerPlugin - Copy\TicTacToeServerPlugin\obj\Debug\netstandard2.0\TicTacToeServerPlugin.csproj.CopyComplete
